@@ -12,15 +12,20 @@ From the plot you can see, from 1970 to 1983, number of deaths caused by epidemi
 ## Problem 2
 
 ![hw1_problem2](https://github.com/stiangithub/DS5500-HW1/blob/master/hw1_problem2.png)
+
 The above plot shows how each year's world's total income per capita(combining all countries) changes. Generally speaking, world's total income is growing since 1800, and the growth becomes really fast after 1950. You can see before 1950, the world's total income (or we can say world's average income, the trend is same) is growing very slowly because of reasons like low level of production and world wars. But then after (which is WW2 ends), world's total income has a significant growth, which means for this world, we have a window of 25 years to develope our economic. Then we hit the 1973-1975 recession, which slow down the growth of income. After that, with similar growth rate compared with 1950-1975, world's income meets its second explosive growth, until the 2009 Great Recession. Also the data gives the prediction about the income till 2040. The expectation is that the income will still grow with similar rate.
 
 ![hw1_problem2](https://github.com/stiangithub/DS5500-HW1/blob/master/hw1_problem2_2.png)
+
 However, I also plot the income situation for 5 countries which has the least income in 2018. You can see in the golden age of income boosting (1950-2000), their income, rather than growing, drops dramatically. After year 2000, their income level remains the same (not see much growth). So my caveats is that for low income countries, it's difficult for them to catch up the world's growing trend in income, which may lead to increase the gap between the rich country and the poor country.
 
 ## Problem 3
 ![hw1_problem3](https://github.com/stiangithub/DS5500-HW1/blob/master/hw1_problem3_1.png)
+
 ![hw1_problem3](https://github.com/stiangithub/DS5500-HW1/blob/master/hw1_problem3_2.png)
+
 ![hw1_problem3](https://github.com/stiangithub/DS5500-HW1/blob/master/hw1_problem3_3.png)
+
 The above are three plots about average income, life expectancy, and child mortality over time for each continent. Generally speaking, since 1800, world's income and life expectancy has continuously improving, while child mortality has continuous decreasing. I want to split this period into 3 parts: before 1900, 1900-1950, after 1950.
 
 For the part before 1900, because the human production level is low, the income level and life expectancy remains low and shows little improvement and child mortality remains high for 100 years. But things are different for Europe from 1870-1900. Because the second industrial revolution and several scientific achievements, Europe shows noticeable improvement in income and life expectancy and decreasing child mortality.
@@ -33,8 +38,11 @@ There are some big gaps in these plots, which are caused by missing data.
 
 ## Problem 4
 I will choose new born mortality rate and HDI (Human Development Index)to see their relation ship after year 2000. My intution is that higher HDI leads to lower new born mortality rate.
+
 ![hw1_problem3](https://github.com/stiangithub/DS5500-HW1/blob/master/hw1_problem4_1.png)
+
 ![hw1_problem3](https://github.com/stiangithub/DS5500-HW1/blob/master/hw1_problem4_2.png)
+
 So from the above two plots, we can see after year 2000, this world's average HDI is increasing at a fixed rate, while new born mortality rate is decreasing at a fixed rate. So they are negatively related.
 
 ## Problem 5
